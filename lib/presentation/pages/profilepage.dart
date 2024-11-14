@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
 class ProfilePage extends StatelessWidget {
   // The URL of the image from the network
   final String imageUrl =
-      'https://drive.google.com/uc?export=view&id=18uKdM8je0ADeW7qs35krqi35XXsG7Zc8'; // Replace with your actual URL
+      'https://cdn-icons-png.flaticon.com/512/9203/9203764.png'; // Replace with your actual URL
 
   @override
   Widget build(BuildContext context) {
